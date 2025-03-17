@@ -1,4 +1,4 @@
-== ASSIGNMENT 5 README ==
+== ASSIGNMENT 7 README ==
 
 A simple program to accept a file of numbers, bubble sort them, and print them in a new file
 
